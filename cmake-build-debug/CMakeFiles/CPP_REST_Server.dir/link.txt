@@ -1,0 +1,2 @@
+/usr/bin/ar qc libCPP_REST_Server.a  CMakeFiles/CPP_REST_Server.dir/library.cpp.o
+/usr/bin/ranlib libCPP_REST_Server.a
